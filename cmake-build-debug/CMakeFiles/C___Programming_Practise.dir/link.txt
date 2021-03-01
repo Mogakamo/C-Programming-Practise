@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C___Programming_Practise.dir/Conditionals/if-else.cpp.o  -o C___Programming_Practise 
